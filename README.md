@@ -1,7 +1,12 @@
 ![cover](https://github.com/paulbouvignies/paulbouvignies/blob/main/assets/cover-master-github.svg)
 
 ##  👋🏻 Qui suis-je ? 
+Titulaire d’un bac STI2D, option Système d’Information et Numérique, j’ai appris lors de mes études à manipuler des composants électroniques et à coder en C++ et JAVA.
 
+Comme une partie de l’apprentissage se faisait en autonomie, je consultais beaucoup de sites internet afin de trouver des solutions à mes problèmes. J’ai pu alors constater que beaucoup de ces sites ressources ne sont pas, à mon avis, visuellement aboutis et sont peu ergonomiques. C’est pourquoi, après le bac, je me suis dirigé vers le développement web et non vers l’électronique.
+
+Aujourd’hui je suis en bachelor chef de projet digital à
+l’ECV d’Aix en Provence et cela me passionne.
 
 
 ##  💪🏻 Compétences 
