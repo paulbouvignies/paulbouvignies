@@ -1,16 +1,24 @@
-### Hi there 👋
+<img src="https://www.paulbouvignies.fr/ressources/cover-master-github.svg" alt="" height="541px" widht="600px">
 
-<!--
-**paulbouvignies/paulbouvignies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  👋🏻 Qui suis-je ? 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  💪🏻 Compétences 
+
+- HTML
+- CSS / SASS
+- JS / JQUERY
+- PHP
+- React.js
+- BOOSTRAP
+- GIT
+- Suite Adobe
+
+
+## 🤙🏻 Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-rameau-7b238a18b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow.svg?&style=for-the-badge)](https://www.paulbouvignies.fr)
+[![tel](https://img.shields.io/badge/Telephone-succes.svg?&style=for-the-badge)](tel:0602256729)
+[![Email](https://img.shields.io/badge/Email-red.svg?&style=for-the-badge)](mailto:bonjour@paulbouvignies.fr)
