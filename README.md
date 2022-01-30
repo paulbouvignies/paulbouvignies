@@ -16,6 +16,9 @@ l’ECV d’Aix en Provence et cela me passionne.
 - JS / JQUERY
 - PHP
 - React.js
+- VUE.js
+- MJML
+- GSAP
 - BOOSTRAP
 - GIT
 - Suite Adobe
