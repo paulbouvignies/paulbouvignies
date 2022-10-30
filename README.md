@@ -1,4 +1,4 @@
-![cover](https://github.com/paulbouvignies/paulbouvignies/blob/main/assets/cover-master-github.svg)
+![cover](https://github.com/paulbouvignies/paulbouvignies/blob/main/assets/cover-master-github-new.png)
 
 ##  👋🏻 Qui suis-je ? 
 Titulaire d’un bac STI2D, option Système d’Information et Numérique, j’ai appris lors de mes études à manipuler des composants électroniques et à coder en C++ et JAVA.
